@@ -33,6 +33,8 @@ for d in steps:
     print(d['html_instructions'])
 for d in steps:
     print(d['end_location'],d['duration']['value'])
+    
+print "Time for each steps"
 for d in steps:
     print(d['duration']['value'])
 for d in steps:
