@@ -10,9 +10,11 @@ for d in steps:
     print(d['html_instructions'])
 
 
-
-#a = geocode(Client(key="AIzaSyDTV6vS1GeEk_pR5ocM_ClRgOSBc1my4oo"),
-#        "4135 Elbertson St, Elmhurst, NY,11373")
+from googlemaps import Client
+a = geocode(Client(key="AIzaSyDTV6vS1GeEk_pR5ocM_ClRgOSBc1my4oo"),
+        "4135 Elbertson St, Elmhurst, NY,11373")
+a = geocode(Client(key="AIzaSyDTV6vS1GeEk_pR5ocM_ClRgOSBc1my4oo"),
+        (-73.875782,40.746503))
 
 a = distance_matrix(Client(key="AIzaSyDTV6vS1GeEk_pR5ocM_ClRgOSBc1my4oo"),
                     (40.7529737,-73.9925333),(40.7498048,-74.0148914))
