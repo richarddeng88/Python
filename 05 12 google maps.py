@@ -16,8 +16,6 @@ result = gmaps.directions("Sydney Town Hall",
                                      departure_time=now)
 
 
--73.9925333
-
 result = gmaps.directions((40.7529737,-73.9925333),
                                          (40.7498048,-74.0148914),
                                      mode="transit",
