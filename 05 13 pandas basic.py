@@ -14,6 +14,7 @@ web = {'day':[1,2,3,4,5,6],
     }
 
 df =  pd.DataFrame(web)
+print df.shape # count the dimensions
 #change the column names
 df.columns = ['a','b','c']
 #set up the index
