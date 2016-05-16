@@ -3,16 +3,16 @@ import googlemaps
 from datetime import datetime
 import numpy
 
-gmaps = googlemaps.Client(key='AIzaSyDTV6vS1GeEk_pR5ocM_ClRgOSBc1my4oo')
+gmaps = googlemaps.Client(key='AIzaSyDU1sF9LeXqHMcXYW5NCuaZjpQyx8CQjgA')
 
 df = pd.read_csv('estimation.csv')
 
 # Request directions via public transit
 now = datetime.now()
 ## find the optimized steps, time consumed, and distance
-info = gmaps.directions((40.7529737,-73.9925333),(40.7498048,-74.0148914),
-                        mode='bicycling',
-                        departure_time=now)[0]["legs"][0]
+##info = gmaps.directions((40.7529737,-73.9925333),(40.7498048,-74.0148914),
+##                        mode='bicycling',
+##                        departure_time=now)[0]["legs"][0]
                     # this function 'legs' only include steps, duration, distance three factors. 
 
 ##### estimating the distance and duration time for SPEED COMPARISION#############
@@ -45,7 +45,7 @@ info = gmaps.directions((40.7529737,-73.9925333),(40.7498048,-74.0148914),
 ###### estimationg one day data for CARTODB animated geographing###################
 
 main_df = pd.DataFrame(columns=('index','latitude','longitude','duration'))
-dur = list()
+totaltime = list()
 dis = list()
 
 for a in df['index']:
@@ -67,8 +67,9 @@ for a in df['index']:
                 dur = d['duration']['value']
                 s = pd.Series([a,lat,lng,dur],index=['index','latitude','longitude','duration'])
                 main_df = main_df.append(s,ignore_index=True)
-
-main_df.to_csv('citi/geo_estimation.csv')
+##        duration = info["duration"]['value']
+##        totaltime.append(duration)
+main_df.to_csv('citi/geo_estimation_2401to.csv')
 
 
 
