@@ -3,9 +3,9 @@ import googlemaps
 from datetime import datetime
 import numpy
 
-gmaps = googlemaps.Client(key='AIzaSyDTV6vS1GeEk_pR5ocM_ClRgOSBc1my4oo')
+gmaps = googlemaps.Client(key='AIzaSyDSRDIKMxg3_veLG9ajvwh3VbXoAMFdZpc')
 
-df = pd.read_csv('estimation.csv')
+df = pd.read_csv('dis_estimation.csv')
 
 # Request directions via public transit
 now = datetime.now()
@@ -16,7 +16,7 @@ info = gmaps.directions((40.7529737,-73.9925333),(40.7498048,-74.0148914),
                     # this function 'legs' only include steps, duration, distance three factors. 
 
 ### estimating the distance and duration time for SPEED COMPARISION#############
-main_df = pd.DataFrame(columns=('duration','distance'))
+main_df = pd.DataFrame(columns=('index','duration','distance'))
 dur = list()
 dis = list()
 
@@ -34,12 +34,12 @@ for a in df['index']:
         #print('the time used is ', duration)
         distance = info['distance']['value']
         #print('the distance is ', distance)
-        dur.append(duration)
-        dis.append(distance)
-        s = pd.Series([duration,distance],index=['duration','distance'])
+##        dur.append(duration)
+##        dis.append(distance)
+        s = pd.Series([a,duration,distance],index=['index','duration','distance'])
         main_df = main_df.append(s,ignore_index=True)
 
-main_df.to_csv('citi/dis_estimation.csv')
+main_df.to_csv('citi/dis_estimation_7215to7877.csv')
 
 
 ###### estimationg one day data for CARTODB animated geographing###################
