@@ -37,7 +37,8 @@ df.to_html('example.html')
 
 # building dataset
 # api_key = open('api key.csv','r').read()
-price = quandl.get("FMAC/HPI_MUNIN", start_date="1990-01-31")
+api_key ="-tu16JxTi3ZC9D4CPXCZ"
+price = quandl.get("FMAC/HPI_MUNIN", start_date="1990-01-31",authtoken=api_key)
 states  =  pd.read_html("https://simple.wikipedia.org/wiki/List_of_U.S._states")
 a = states[0]
 for abbv in states[0][0] :
@@ -45,7 +46,7 @@ for abbv in states[0][0] :
 names = states[0][0]
 
 
-# concatenating and appending dataframes
+### concatenating and appending dataframes
 df1 = pd.DataFrame({'hpi':[80,85,88,85],
                     'int_rate':[2,3,2,2],
                     'us_gdp_thousands':[50,55,65,55]},

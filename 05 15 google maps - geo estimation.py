@@ -69,7 +69,7 @@ for a in df['index']:
                 main_df = main_df.append(s,ignore_index=True)
 ##        duration = info["duration"]['value']
 ##        totaltime.append(duration)
-main_df.to_csv('citi/geo_estimation_2401to.csv')
+main_df.to_csv('citi/geo_estimation_2489to.csv')
 
 
 
