@@ -39,7 +39,7 @@ for a in df['index']:
         s = pd.Series([a,duration,distance],index=['index','duration','distance'])
         main_df = main_df.append(s,ignore_index=True)
 
-main_df.to_csv('citi/dis_estimation_7215to7877.csv')
+main_df.to_csv('citi/dis_estimation_8921to9986.csv')
 
 
 ###### estimationg one day data for CARTODB animated geographing###################
