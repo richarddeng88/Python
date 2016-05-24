@@ -1,2 +1,0 @@
-nose
-responses==0.3

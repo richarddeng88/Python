@@ -2,7 +2,7 @@
 a=str(2) #here str() transfer the numeric to charater
 type(a)
 
-## modules
+## import a module named "time"
 import time
 print time.time()
 print time.localtime(time.time())

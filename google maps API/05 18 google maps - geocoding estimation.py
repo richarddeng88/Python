@@ -16,7 +16,7 @@ gmaps = googlemaps.Client(key='AIzaSyDTV6vS1GeEk_pR5ocM_ClRgOSBc1my4oo')
 
     
 # Look up an address with reverse geocoding
-df = pd.read_csv('station.csv')
+df = pd.read_csv('C:\Users\Richard\Desktop\Rcourse\citibike\station_for_map.csv')
 main_df = pd.DataFrame(columns=('index','boro'))
 
 
@@ -32,4 +32,4 @@ for a in df['index']:
         main_df = main_df.append(s,ignore_index=True)
 
 final_df = pd.merge(df,main_df,on=['index'])
-final_df.to_csv('citi/station_boro.csv')
+final_df.to_csv('C:\Users\Richard\Desktop\Rcourse\citibike\station_for_map.csv')

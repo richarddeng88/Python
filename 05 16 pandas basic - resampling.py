@@ -13,12 +13,12 @@ df = pd.read_pickle('pickllle')
 ################## modifying columns
 # add a new column
 df['TX2'] = df['TX']*2
-df.plot()
-plt.legend().remove()
-plt.show()
+##df.plot()
+##plt.legend().remove()
+##plt.show()
 
 
-a = df['NY']
-a = a.pct_change()
-a.plot()
-plt.show()
+##a = df['NY']
+##a = a.pct_change()
+##a.plot()
+##plt.show()
