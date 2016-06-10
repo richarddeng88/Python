@@ -36,7 +36,7 @@ def th(ur):
     pattern = re.compile(regex)
     htmltext = urllib.urlopen(base).read()
     results = re.findall(pattern, htmltext)
-    #print "the price of " + str(ur) + " is " + str(results[0])
+    print "the price of " + str(ur) + " is " + str(results)
     try:
         gmap[ur] = results[0]
     except:
@@ -44,9 +44,10 @@ def th(ur):
 
 symbol_list = open("symbol.txt").read()
 symbol_list = symbol_list.split("\n")
+print symbol_list
 
 threadlist = []
-for u in symbol_list[0:10]:
+for u in symbol_list[0:100]:
     t = Thread(target=th, args=(u,))
     t.start()
     threadlist.append(t)
