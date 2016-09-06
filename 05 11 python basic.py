@@ -35,13 +35,16 @@ greet.remove('how')
 print greet
 
 # load data
-book = open('c:/book.txt')
+book = open('hst.txt')
+print type(book)
 booktex = book.readlines()
-len(booktex)
-
+print booktex[0:1]
+print type(booktex)
+print len(booktex)
+print ''
 # wirte files
 mytext = "i wrote a great article today!"
-outfile=open('c:/Users/Richard/Desktop/myarticle.txt','w')
+outfile=open('myarticle.txt','w')
 outfile.writelines(mytext)
 outfile.close()
 
@@ -54,19 +57,14 @@ for qing in greet:
 
     
 # conditional loops
-myage=26
-death=69
+myage=28
+death=30
 
 while myage < death:
-    print 'when i am'
-    print myage
-    print 'i will still love my website'
+    print 'when i am', myage, 'i will still love my website'
     myage +=1
-    print ''
 
-print 'but when i am'
-print myage
-print 'i will die.'
+print 'but when i am' , myage , 'i will die.'
 
 
 # logics
@@ -87,7 +85,7 @@ smoking_age = 18
 lotto_age=19
 drinking_age=21
 
-age=int(raw_input('how old are you?'))
+age= int(raw_input('how old are you?'))
         
 if age > drinking_age :
         print 'you can drive, moke, gamble, and drink :)'

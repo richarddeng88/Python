@@ -17,7 +17,7 @@ df =  pd.DataFrame(web) ## make the data set data.frame type
 df.shape # give  the dimensions of the data set
 
 #change the column names
-df.columns = ['a','b','c'] 
+df.columns = ['a','b','c']
 #set up the index
 df2 = df.set_index('a')
 
@@ -32,7 +32,8 @@ np.array(df[['a','b']])
 mydata = quandl.get("ZILL/Z11373_MPC")
 df = pd.read_csv('ZILL-Z11373_MPC.csv')
 df.to_csv('newdf.csv')
-df = pd.read_csv('ZILL-Z11373_MPC.csv', index_col=0)
+
+df = pd.read_csv('ZILL-Z11373_MPC.csxv', inde_col=0)
 df.columns = ['House Price in Elmhurst']
 df = pd.read_csv('ZILL-Z11373_MPC.csv', names=['Date','elmhurst price'],index_col=0)
 df.to_html('example.html')
