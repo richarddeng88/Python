@@ -1,3 +1,4 @@
+
 names = [['rich',29],['tony',17],['zara',19]]
 print type(names)
 print names[0][0]
