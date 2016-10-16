@@ -2,15 +2,188 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1df7e77-2806-4fa6-b98e-10f39e9e8cc7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1. Spark/09 11 spark wordcount - my practics.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1. Spark/09 11 spark-wordcount.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1. Spark/09 12 SparkSQL to postgreSQL.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1. Spark/09 12 sparkSQL to MYSQL.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1. Spark/09 13 Fire Incidents Exploration - RunMe.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1. Spark/09 14  Introduction to Apache Spark on Databricks.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1. Spark/09 15 cs105_lab1a_spark_tutorial.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1. Spark/09 15 cs105_lab2_apache_log.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/05 13 pandas basic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/05 25 iris sklearn.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/05 26 sklearn knn.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/05 29 matplotlib basic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/05 30 matplotlib basic 2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06 01 clasification sklearn.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06 03 matplotlib basic 3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06 03 web scraping basic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06 04 web scraping - threads.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06 05 twitter analysis.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06 05 twitter straming.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06 07 sentiment analysis - movie review.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06 07 sentiment analysis .ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06 08 sentiment analysis - 2 train model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09 20 python class.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09 21 stack class.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fstates.pickle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myarticle.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pickllle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pickllle.p" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/BeautifulSoup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/aa_readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/argfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/argtest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/avelist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/avenum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/average.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/badhtml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/celsius.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/cleanup.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/clown.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/copytildone.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/count1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/count2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/count3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/curl1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/curl2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/curl3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/db1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/db2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/egg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/emaildb.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/fahren.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/geodata.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/geodata/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/geodata/geodump.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/geodata/geoload.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/geodata/where.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/geodata/where.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/geodata/where.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/geojson.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/geoxml.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/Chart.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/d3.layout.cloud.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/d3.v3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/gbasic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/gline.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/gline.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/gline2.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/gline3.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/gmane.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/gmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/gword.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/gword.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/gyear.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/gmane/mapping.sqlite" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/grade.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/graphics/graphics.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/graphics/histogram.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/greet.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/grep.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/hidden.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/intro-short.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/intro.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/json1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/json2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/largest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/mailcount.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/mailtop.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/mbox-short.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/mbox.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/oauth.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/open.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/BeautifulSoup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/d3.v2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/force.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/force.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/force.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/spdump.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/spider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/spider.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/spjson.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/sprank.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pagerank/spreset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pals.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/party1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/party2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/party3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/party4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/party5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pay.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pay2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/pay3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re01.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re02.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re03.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re04.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re05.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re06.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re07.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re08.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re09.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re10.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re11.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re12.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re13.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/re14.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/romeo-full.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/romeo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/roster.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/roster.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/roster/roster.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/roster/roster_data.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/search1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/search10.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/search2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/search3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/search4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/search5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/search6.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/search7.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/search8.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/search9.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/sequence.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/socket1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/socket2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/soft.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/spamave.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/tracks.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/tracks/Library.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/tracks/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/tracks/tracks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/twdump.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/twfriends.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/twitter1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/twitter2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/twjoin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/twspider.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/twtest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/twurl.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/txtcheck.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/txtcheck2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/txtcheck3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/txtcount.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/txtdelete.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/txtmd5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/txtsize.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/urljpeg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/urllib1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/urllib2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/urllink2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/urllink3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/urllinks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/urlregex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/urlwords.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/whathour.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/wikidata.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/wikigrade.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/wordlist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/words.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/words.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/xml1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python code/code/xml2.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05 30 matplotlib by book.ipynb" afterPath="$PROJECT_DIR$/05 30 matplotlib by book.ipynb" />
     </list>
     <ignored path="Python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,32 +204,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="09 21 stack class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09 21 stack class.py">
+      <file leaf-file-name="10 15 test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10 15 test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06 05 twitter analysis.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06 05 twitter analysis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06 05 twitter straming.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/06 05 twitter straming.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="7" column="57" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="57" />
-              <folding />
+            <state relative-caret-position="242">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,10 +256,11 @@
         <option value="$PROJECT_DIR$/bloomberg_stock_price/09 20 python code test.py" />
         <option value="$PROJECT_DIR$/09 20 python class.py" />
         <option value="$PROJECT_DIR$/09 20 regular expression.py" />
-        <option value="$PROJECT_DIR$/05 13 pandas basic.py" />
         <option value="$PROJECT_DIR$/test1.py" />
-        <option value="$PROJECT_DIR$/09 21 stack class.py" />
         <option value="$PROJECT_DIR$/06 05 twitter straming.py" />
+        <option value="$PROJECT_DIR$/09 21 stack class.py" />
+        <option value="$PROJECT_DIR$/05 13 pandas basic.py" />
+        <option value="$PROJECT_DIR$/10 15 test.py" />
       </list>
     </option>
   </component>
@@ -152,7 +308,7 @@
       <recent name="C:\Users\Richard\Desktop\Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.09 21 stack class">
+  <component name="RunManager" selected="Python.10 15 test">
     <configuration default="false" name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,57 +326,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="05 29 matplotlib basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 29 matplotlib basic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="05 30 matplotlib basic 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 30 matplotlib basic 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="06 03 matplotlib basic 3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 03 matplotlib basic 3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="09 21 stack class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,6 +339,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 21 stack class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="09 20 regular expression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 20 regular expression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="10 15 test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 15 test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="05 13 pandas basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 13 pandas basic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -392,18 +548,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.test" />
       <item index="1" class="java.lang.String" itemvalue="Python.test1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.05 29 matplotlib basic" />
-      <item index="3" class="java.lang.String" itemvalue="Python.05 30 matplotlib basic 2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.06 03 matplotlib basic 3" />
-      <item index="5" class="java.lang.String" itemvalue="Python.09 21 stack class" />
+      <item index="2" class="java.lang.String" itemvalue="Python.09 21 stack class" />
+      <item index="3" class="java.lang.String" itemvalue="Python.09 20 regular expression" />
+      <item index="4" class="java.lang.String" itemvalue="Python.10 15 test" />
+      <item index="5" class="java.lang.String" itemvalue="Python.05 13 pandas basic" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.09 21 stack class" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.06 03 matplotlib basic 3" />
-        <item index="3" class="java.lang.String" itemvalue="Python.05 30 matplotlib basic 2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.05 29 matplotlib basic" />
+        <item index="0" class="java.lang.String" itemvalue="Python.10 15 test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.05 13 pandas basic" />
+        <item index="2" class="java.lang.String" itemvalue="Python.09 20 regular expression" />
+        <item index="3" class="java.lang.String" itemvalue="Python.09 21 stack class" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +589,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1384" height="752" extended-state="7" />
+    <frame x="-9" y="-9" width="1384" height="752" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -441,19 +597,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5119581" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.48804185" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.49701047" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3946037" sideWeight="0.8206442" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.49103138" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39629006" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3946037" sideWeight="0.8206442" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39695945" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.49701047" order="6" side_tool="false" content_ui="tabs" />
@@ -489,16 +645,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/06 03 matplotlib basic 3.py</url>
-          <line>37</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/06 03 matplotlib basic 3.py</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -511,86 +657,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/06 08 sentiment analysis - 2 train model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1210">
-          <caret line="57" column="53" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 04 web scraping - threads.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1210">
-          <caret line="57" column="53" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 04 web scraping - threads.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1562">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 04 web scraping - threads.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 03 matplotlib basic 3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 29 matplotlib basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 30 matplotlib basic 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py" />
+    <entry file="file://$PROJECT_DIR$/06 04 web scraping - threads.py" />
+    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py" />
+    <entry file="file://$PROJECT_DIR$/06 04 web scraping - threads.py" />
+    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py" />
+    <entry file="file://$PROJECT_DIR$/06 04 web scraping - threads.py" />
+    <entry file="file://$PROJECT_DIR$/06 03 matplotlib basic 3.py" />
+    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py" />
+    <entry file="file://$PROJECT_DIR$/05 29 matplotlib basic.py" />
+    <entry file="file://$PROJECT_DIR$/05 30 matplotlib basic 2.py" />
     <entry file="file://$PROJECT_DIR$/05 29 matplotlib.py" />
     <entry file="file://$PROJECT_DIR$/05 10 python basic.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -607,13 +683,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05 12 distance_matrix.py" />
-    <entry file="file://$PROJECT_DIR$/05 25 iris sklearn.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/05 25 iris sklearn.ipynb" />
     <entry file="file://$PROJECT_DIR$/05 25 pandas comparison.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -639,38 +709,12 @@
     <entry file="file://$PROJECT_DIR$/06 01 clasification sklearn.py" />
     <entry file="file://$USER_HOME$/Desktop/t.py" />
     <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/06 04 web scraping - threads.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 07 sentiment analysis - movie review.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 08 sentiment analysis - 2 train model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/06 07 sentiment analysis - movie review.py" />
+    <entry file="file://$PROJECT_DIR$/06 08 sentiment analysis - 2 train model.py" />
     <entry file="file://$PROJECT_DIR$/reducer.py" />
     <entry file="file://$PROJECT_DIR$/mapper" />
     <entry file="file://$PROJECT_DIR$/0815reducer.py" />
     <entry file="file://$PROJECT_DIR$/0815mapper.py" />
-    <entry file="file://$PROJECT_DIR$/08 16 filtering -1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08 17 timer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -685,13 +729,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py" />
     <entry file="file://$PROJECT_DIR$/05 16 numpy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -720,27 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09 20 python class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09 20 regular expression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 13 pandas basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="72" column="30" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05 10 python basic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -762,52 +779,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05 29 matplotlib basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 30 matplotlib basic 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 03 matplotlib basic 3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/05 29 matplotlib basic.py" />
+    <entry file="file://$PROJECT_DIR$/05 30 matplotlib basic 2.py" />
+    <entry file="file://$PROJECT_DIR$/06 03 matplotlib basic 3.py" />
     <entry file="file://$PROJECT_DIR$/test1.py" />
+    <entry file="file://$PROJECT_DIR$/06 05 twitter straming.py" />
+    <entry file="file://$PROJECT_DIR$/06 05 twitter analysis.py" />
+    <entry file="file://$PROJECT_DIR$/08 16 filtering -1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 13 pandas basic.py" />
+    <entry file="file://$PROJECT_DIR$/06 04 web scraping - threads.py" />
+    <entry file="file://$PROJECT_DIR$/09 20 python class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="79" column="49" selection-start-line="50" selection-start-column="0" selection-end-line="79" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 20 regular expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/09 21 stack class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="286">
+          <caret line="19" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06 05 twitter analysis.py">
+    <entry file="file://$PROJECT_DIR$/10 15 test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06 05 twitter straming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="57" />
-          <folding />
+        <state relative-caret-position="242">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
