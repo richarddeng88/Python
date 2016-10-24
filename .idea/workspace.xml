@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1df7e77-2806-4fa6-b98e-10f39e9e8cc7" name="Default" comment="" />
+    <list default="true" id="a1df7e77-2806-4fa6-b98e-10f39e9e8cc7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10 15 web scrapping.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. twitter analysis/.ipynb_checkpoints/10 16 twitter analysis-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. twitter analysis/06 05 twitter analysis.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. twitter analysis/06 05 twitter straming.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. twitter analysis/10 16 twitter analysis.ipynb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/10 15 web scrapping-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/10 15 web scrapping-checkpoint.ipynb" />
+    </list>
     <ignored path="Python.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,12 +29,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3. leetcode-python-master/3sum/solution.py">
+      <file leaf-file-name="2. parse twitter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4. web scraping + twitter analysis/2. parse twitter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="154">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3. twitter straming.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4. web scraping + twitter analysis/3. twitter straming.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,6 +98,12 @@
         <option value="$PROJECT_DIR$/09 21 stack class.py" />
         <option value="$PROJECT_DIR$/05 13 pandas basic.py" />
         <option value="$PROJECT_DIR$/10 15 test.py" />
+        <option value="$PROJECT_DIR$/4. twitter analysis/06 05 twitter analysis.py" />
+        <option value="$PROJECT_DIR$/4. twitter analysis/auth.k.py" />
+        <option value="$PROJECT_DIR$/4. twitter analysis/auth.k" />
+        <option value="$PROJECT_DIR$/4. twitter analysis/twitter_search.py" />
+        <option value="$PROJECT_DIR$/4. twitter analysis/test.py" />
+        <option value="$PROJECT_DIR$/4. twitter analysis/1. parse the most recoenty tweets from cookiejar.py" />
       </list>
     </option>
   </component>
@@ -112,7 +140,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/05 10 python basic.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/4. twitter analysis/06 05 twitter analysis.py" />
     <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
@@ -123,59 +151,59 @@
       <recent name="C:\Users\Richard\Desktop\Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10 15 test">
-    <configuration default="false" name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3. twitter straming">
+    <configuration default="false" name="06 05 twitter analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. twitter analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. twitter analysis/06 05 twitter analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="09 21 stack class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="06 05 twitter straming" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. twitter analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 21 stack class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. twitter analysis/06 05 twitter straming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="09 20 regular expression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="1. parse the most recoenty tweets from cookiejar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. twitter analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 20 regular expression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. twitter analysis/1. parse the most recoenty tweets from cookiejar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="10 15 test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="09 25 timer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -187,24 +215,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 15 test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 25 timer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="05 13 pandas basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="3. twitter straming" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. web scraping + twitter analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 13 pandas basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. web scraping + twitter analysis/3. twitter straming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -350,31 +378,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. twitter analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. twitter analysis/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.09 21 stack class" />
-      <item index="3" class="java.lang.String" itemvalue="Python.09 20 regular expression" />
-      <item index="4" class="java.lang.String" itemvalue="Python.10 15 test" />
-      <item index="5" class="java.lang.String" itemvalue="Python.05 13 pandas basic" />
+      <item index="1" class="java.lang.String" itemvalue="Python.06 05 twitter analysis" />
+      <item index="2" class="java.lang.String" itemvalue="Python.06 05 twitter straming" />
+      <item index="3" class="java.lang.String" itemvalue="Python.1. parse the most recoenty tweets from cookiejar" />
+      <item index="4" class="java.lang.String" itemvalue="Python.09 25 timer" />
+      <item index="5" class="java.lang.String" itemvalue="Python.3. twitter straming" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.10 15 test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.05 13 pandas basic" />
-        <item index="2" class="java.lang.String" itemvalue="Python.09 20 regular expression" />
-        <item index="3" class="java.lang.String" itemvalue="Python.09 21 stack class" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.3. twitter straming" />
+        <item index="1" class="java.lang.String" itemvalue="Python.06 05 twitter straming" />
+        <item index="2" class="java.lang.String" itemvalue="Python.06 05 twitter analysis" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1. parse the most recoenty tweets from cookiejar" />
+        <item index="4" class="java.lang.String" itemvalue="Python.09 25 timer" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +440,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5119581" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.48804185" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.49701047" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39527026" sideWeight="0.8206442" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35472974" sideWeight="0.8206442" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.49103138" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -467,44 +495,14 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/06 04 web scraping - threads.py" />
-    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py" />
-    <entry file="file://$PROJECT_DIR$/06 04 web scraping - threads.py" />
-    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py" />
-    <entry file="file://$PROJECT_DIR$/06 04 web scraping - threads.py" />
-    <entry file="file://$PROJECT_DIR$/06 03 matplotlib basic 3.py" />
-    <entry file="file://$PROJECT_DIR$/06 03 web scraping basic.py" />
-    <entry file="file://$PROJECT_DIR$/05 29 matplotlib basic.py" />
-    <entry file="file://$PROJECT_DIR$/05 30 matplotlib basic 2.py" />
-    <entry file="file://$PROJECT_DIR$/05 29 matplotlib.py" />
-    <entry file="file://$PROJECT_DIR$/05 10 python basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 10 python basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05 12 distance_matrix.py" />
     <entry file="file://$PROJECT_DIR$/05 25 iris sklearn.ipynb" />
-    <entry file="file://$PROJECT_DIR$/05 25 pandas comparison.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/05 25 pandas comparison.py" />
     <entry file="file://C:/Python27/Lib/site-packages/matplotlib/colors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1042">
@@ -529,13 +527,7 @@
     <entry file="file://$PROJECT_DIR$/mapper" />
     <entry file="file://$PROJECT_DIR$/0815reducer.py" />
     <entry file="file://$PROJECT_DIR$/0815mapper.py" />
-    <entry file="file://$PROJECT_DIR$/08 17 timer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/08 17 timer.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -565,27 +557,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05 10 python basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 11 python basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 14 pandas basic - pickle, correlation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="87" column="23" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/05 10 python basic.py" />
+    <entry file="file://$PROJECT_DIR$/05 11 python basic.py" />
+    <entry file="file://$PROJECT_DIR$/05 14 pandas basic - pickle, correlation.py" />
     <entry file="file://$PROJECT_DIR$/05 29 matplotlib basic.py" />
     <entry file="file://$PROJECT_DIR$/05 30 matplotlib basic 2.py" />
     <entry file="file://$PROJECT_DIR$/06 03 matplotlib basic 3.py" />
@@ -594,43 +568,14 @@
     <entry file="file://$PROJECT_DIR$/06 05 twitter analysis.py" />
     <entry file="file://$PROJECT_DIR$/05 13 pandas basic.py" />
     <entry file="file://$PROJECT_DIR$/06 04 web scraping - threads.py" />
-    <entry file="file://$PROJECT_DIR$/09 20 python class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="79" column="49" selection-start-line="50" selection-start-column="0" selection-end-line="79" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09 21 stack class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="19" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10 15 test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 16 numpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/09 20 python class.py" />
+    <entry file="file://$PROJECT_DIR$/09 21 stack class.py" />
+    <entry file="file://$PROJECT_DIR$/10 15 test.py" />
+    <entry file="file://$PROJECT_DIR$/05 16 numpy.py" />
     <entry file="file://$PROJECT_DIR$/08 16 filtering -1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -638,15 +583,115 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3. leetcode-python-master/3sum/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="264">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. twitter analysis/06 05 twitter analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. twitter analysis/10 16 twitter analysis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. twitter analysis/auth.k.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. twitter analysis/auth.k">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. twitter analysis/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 25 timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. twitter analysis/1. parse the most recoenty tweets from cookiejar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="55" column="46" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. twitter analysis/06 05 twitter straming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. twitter analysis/twitter_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2772">
+          <caret line="126" column="42" selection-start-line="126" selection-start-column="42" selection-end-line="126" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. twitter analysis/1. parse twitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. web scraping + twitter analysis/2. parse twitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. web scraping + twitter analysis/3. twitter straming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
