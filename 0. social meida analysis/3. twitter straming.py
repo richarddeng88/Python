@@ -24,4 +24,5 @@ class listener(StreamListener):
 auth = OAuthHandler(ckey, csecret)
 auth.set_access_token(atoken,asecret)
 twitter_stream = Stream(auth, listener())
-twitter_stream.filter(track=["car"])
+listener(auth)
+#twitter_stream.filter(track=["car"])

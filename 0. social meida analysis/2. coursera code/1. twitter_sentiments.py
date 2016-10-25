@@ -12,8 +12,8 @@ auth1.set_access_token(ak[2].replace("\n",""), ak[3].replace("\n",""))
 api = tweepy.API(auth1)
 
 # Tweeter search with keyword
-target_num = 50
-query = "olympics"
+target_num = 150
+query = ["obama","trump"]
 
 csvFile = open('results_olympics.csv','w')
 csvWriter = csv.writer(csvFile)
