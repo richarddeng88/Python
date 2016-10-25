@@ -1,0 +1,11 @@
+__pycache__
+.DS_Store
+venv
+set-environment.sh
+stashed
+*.json
+*.jsonl
+*.txt
+*.pickle
+*.png
+*.html
