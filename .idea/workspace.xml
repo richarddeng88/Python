@@ -2,7 +2,125 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1df7e77-2806-4fa6-b98e-10f39e9e8cc7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/3. twitter straming.py" afterPath="$PROJECT_DIR$/4. web scraping + twitter analysis/3. twitter straming.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/01_machine_learning_intro.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/02_machine_learning_setup.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/03_getting_started_with_iris.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/04_model_training - knn.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/05_model_evaluation - knn.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/06_linear_regression.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/07_cross_validation.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/08_grid_search.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/09_classification_metrics.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/Regression methods.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/check sklearn version.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/classification methods.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/01_clustering.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/01_robot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/01_spam_filter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/01_supervised_learning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/02_ipython_header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/02_sklearn_algorithms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/02_sklearn_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/03_iris.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/04_1nn_map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/04_5nn_map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/04_knn_dataset.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/05_overfitting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/05_train_test_split.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/07_cross_validation_diagram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/09_confusion_matrix_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/images/09_confusion_matrix_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/requirements.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. scikit learn code/styles/custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2.1 sk learn/05 25 iris sklearn.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2.1 sk learn/05 26 sklearn knn.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2.1 sk learn/06 01 clasification sklearn.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2.1 sk learn/06 07 sentiment analysis - movie review.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2.1 sk learn/06 07 sentiment analysis .ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2.1 sk learn/06 08 sentiment analysis - 2 train model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap01/demo_gensim.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap01/demo_json.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap01/demo_matplotlib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap01/demo_networkx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap01/demo_numpy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap01/demo_sklearn.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_client.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_cluster_users.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_conversation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_followers_stats.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_followers_stats_numpy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_followers_stats_set.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_get_home_timeline.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_get_user.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_get_user_timeline.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_hashtag_frequency.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_hashtag_stats.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_influence.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_make_geojson.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_map_basic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_map_clustered.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_map_example.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_mention_frequency.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_streaming.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_term_frequency.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_term_frequency_graph.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_time_series.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap04/facebook_get_friends.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap04/facebook_get_my_posts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap04/facebook_get_my_posts_more_fields.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap04/facebook_get_page_info.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap04/facebook_get_page_posts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap04/facebook_my_profile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap04/facebook_post_time_stats.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap04/facebook_posts_wordcloud.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap04/facebook_top_posts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap04/facebook_top_posts_plot.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap05/gplus_activities_keywords.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap05/gplus_get_page_activities.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap05/gplus_search_example.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap05/gplus_search_web_gui.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap05/static/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap06/stack_classification_predict_tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap06/stack_classification_prepare_dataset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap06/stack_classification_save_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap06/stack_classification_user_input.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap06/stack_search_keyword.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap06/stack_search_user.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap06/stack_xml2json.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap07/blogs_blogger_get_posts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap07/blogs_entities.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap07/blogs_rss_get_posts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap07/blogs_wp_get_posts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap08/github_get_user.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap08/github_search_language.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap08/github_search_repos.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap08/github_search_user.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap08/httpbin_client.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap08/yelp_client.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap08/yelp_get_business.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap08/yelp_search_business.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap08/youtube_search_video.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap08/youtube_search_video_pagination.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap09/micro_geo2kml.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap09/micro_geo_wiki.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/Chap09/rdf_summarize_entity.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. Book-Social Media Mining Python/book-cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/1. web scrapping.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/2. parse twitter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/3. twitter straming.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/auth.k" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/twitter code/json2csv_business.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/twitter code/json2csv_user.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/twitter code/text_mining_twitter.r" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/twitter code/twitter_sentiments.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/twitter code/web scraping with bs4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/twitter_search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4. web scraping + twitter analysis/youtube_search.py" afterPath="" />
     </list>
     <ignored path="Python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,35 +141,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="2. parse twitter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. web scraping + twitter analysis/2. parse twitter.py">
+      <file leaf-file-name="streaming.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/tweepy-master/tweepy/streaming.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="twitter_search.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. web scraping + twitter analysis/twitter_search.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="30" column="73" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="73" />
+            <state relative-caret-position="7744">
+              <caret line="352" column="32" selection-start-line="352" selection-start-column="32" selection-end-line="352" selection-end-column="32" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3. twitter straming.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4. web scraping + twitter analysis/3. twitter straming.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#184#238#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -437,7 +533,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1384" height="752" extended-state="7" />
+    <frame x="-9" y="-9" width="1384" height="752" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -445,7 +541,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5119581" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.48804185" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.49701047" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35472974" sideWeight="0.8206442" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11655405" sideWeight="0.8206442" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.49103138" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -505,7 +601,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05 25 iris sklearn.ipynb" />
     <entry file="file://$PROJECT_DIR$/05 25 pandas comparison.py" />
     <entry file="file://C:/Python27/Lib/site-packages/matplotlib/colors.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -679,30 +774,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4. web scraping + twitter analysis/2. parse twitter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4. web scraping + twitter analysis/twitter_search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="30" column="73" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. web scraping + twitter analysis/2. parse twitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4. web scraping + twitter analysis/3. twitter straming.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="22">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/tweepy-master/tweepy/streaming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7744">
+          <caret line="352" column="32" selection-start-line="352" selection-start-column="32" selection-end-line="352" selection-end-column="32" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#184#238#0" expanded="true" />
           </folding>
         </state>
       </provider>
