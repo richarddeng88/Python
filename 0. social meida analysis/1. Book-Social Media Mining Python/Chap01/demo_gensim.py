@@ -2,7 +2,8 @@
 from gensim.summarization import summarize
 import sys
 
-fname = sys.argv[1]
+##fname = sys.argv[1]
+fname = "how are you today?"
 
 with open(fname, 'r') as f:
     content = f.read()

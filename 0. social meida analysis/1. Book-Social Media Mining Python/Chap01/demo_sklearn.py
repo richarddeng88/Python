@@ -30,12 +30,12 @@ if __name__ == '__main__':
                           colors_predicted_labels,
                           markers_predicted):
         plt.scatter(x, y, c=c, marker=m)
-    plt.savefig('iris_clusters.png')
+    plt.savefig('plot/iris_clusters.png')
     for x, y, c, m in zip(petal_width,
                           petal_length,
                           colors_true_labels,
                           markers_true):
         plt.scatter(x, y, c=c, marker=m)
-    plt.savefig('iris_true_labels.png')
+    plt.savefig('plot/iris_true_labels.png')
 
     print(iris.target_names)

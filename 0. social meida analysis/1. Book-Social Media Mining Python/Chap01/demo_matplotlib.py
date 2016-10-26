@@ -8,4 +8,4 @@ if __name__ == '__main__':
     y = x * x
     plt.plot(x, y, 'ro')
     plt.axis([0, 6, 0, 30])
-    plt.savefig('demo_plot.png')
+    plt.savefig('plot/demo_plot.png')

@@ -4,15 +4,8 @@ import json
 from tweepy import Cursor
 from twitter_client import get_twitter_client
 
-def usage():
-    print("Usage:")
-    print("python {} <username>".format(sys.argv[0]))
-
 if __name__ == '__main__':
-    if len(sys.argv) != 2:
-        usage()
-        sys.exit(1)
-    user = sys.argv[1]
+    user = "marcobonzanini"
     client = get_twitter_client()
 
     fname = "user_timeline_{}.jsonl".format(user)
