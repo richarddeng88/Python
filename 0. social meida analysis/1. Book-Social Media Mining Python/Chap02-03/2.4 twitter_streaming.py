@@ -51,7 +51,7 @@ def convert_valid(one_char):
         return '_'
 
 if __name__ == '__main__':
-    query = sys.argv[1:] # list of CLI arguments
+    query = ['donald','trump'] # list of CLI arguments
     query_fname = ' '.join(query) # string
     auth = get_twitter_auth()
     twitter_stream = Stream(auth, CustomListener(query_fname))

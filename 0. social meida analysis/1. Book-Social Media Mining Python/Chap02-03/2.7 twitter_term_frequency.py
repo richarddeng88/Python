@@ -50,7 +50,7 @@ if __name__ == '__main__':
     with open(fname, 'r') as f:
         for line in f:
             tweet = json.loads(line)
-            tokens = process(text=tweet.get('text', ''),
+            tokens = process(text=tweet.get('text',''),
                              tokenizer=tweet_tokenizer,
                              stopwords=stopword_list)
             tf.update(tokens)

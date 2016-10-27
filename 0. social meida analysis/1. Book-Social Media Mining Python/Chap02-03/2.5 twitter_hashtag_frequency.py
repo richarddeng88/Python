@@ -9,7 +9,7 @@ def get_hashtags(tweet):
     return [tag['text'].lower() for tag in hashtags]
 
 if __name__ == '__main__':
-    fname = sys.argv[1]
+    fname = 'stream_donald_trump.jsonl'
     with open(fname, 'r') as f:
         hashtags = Counter()
         for line in f:
