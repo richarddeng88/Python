@@ -11,3 +11,4 @@ if __name__ == '__main__':
             for status in page:
                 # Process a single status
                 f.write(json.dumps(status._json)+"\n")
+
