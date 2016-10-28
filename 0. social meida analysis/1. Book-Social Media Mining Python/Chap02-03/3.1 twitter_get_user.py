@@ -11,7 +11,7 @@ MAX_FRIENDS = 15000
 
 def usage():
     print("Usage:")
-    print("python {} <username>".format(sys.argv[0]))
+    print("python {} <username>".format(" aaa "))
 
 def paginate(items, n):
     """Generate n-sized chunks from items"""
@@ -19,10 +19,7 @@ def paginate(items, n):
         yield items[i:i+n]
 
 if __name__ == '__main__':
-    if len(sys.argv) != 2:
-        usage()
-        sys.exit(1)
-    screen_name = sys.argv[1]
+    screen_name = "richarddeng88" # "jtimberlake"
     client = get_twitter_client()
     dirname = "users/{}".format(screen_name)
     max_pages = math.ceil(MAX_FRIENDS / 5000)
@@ -37,6 +34,7 @@ if __name__ == '__main__':
 
     # get followers for a given user
     fname = "users/{}/followers.jsonl".format(screen_name)
+    print fname
     with open(fname, 'w') as f:
         for followers in Cursor(client.followers_ids, screen_name=screen_name).pages(max_pages):
             for chunk in paginate(followers, 100):
@@ -48,7 +46,7 @@ if __name__ == '__main__':
                 time.sleep(60)
 
     # get friends for a given user
-    fname = "users/{}/friends.jsonl".format(screen_name)
+    fname = "profile/{}_friends.jsonl".format(screen_name)
     with open(fname, 'w') as f:
         for friends in Cursor(client.friends_ids, screen_name=screen_name).pages(max_pages):
             for chunk in paginate(friends, 100):

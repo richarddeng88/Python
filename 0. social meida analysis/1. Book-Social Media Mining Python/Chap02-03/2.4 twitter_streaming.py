@@ -11,7 +11,7 @@ class CustomListener(StreamListener):
 
     def __init__(self, fname):
         safe_fname = format_filename(fname)
-        self.outfile = "stream_%s.jsonl" % safe_fname
+        self.outfile = "tweets/stream_%s.jsonl" % safe_fname
 
     def on_data(self, data):
         try:

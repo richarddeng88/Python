@@ -1,10 +1,8 @@
-# Chap02-03/twitter_time_series.py
-import sys
+from twitter_client import get_twitter_client
 import json
-from datetime import datetime
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
+client = get_twitter_client()
+profile = client.get_user(screen_name="PacktPub")
+print type(profile)
 
-import pandas as pd
-import numpy as np
-import pickle
+print type(json.dumps(profile._json, indent=4))
+print(json.dumps(profile._json, indent=4))s

@@ -26,7 +26,7 @@ if __name__ == '__main__':
         per_minute = my_series.resample('1Min', how='sum').fillna(0)
         print(my_series.head())
         print(per_minute.head())
-        +
+
         fig, ax = plt.subplots()
         ax.grid(True)
         ax.set_title("Tweet Frequencies")
