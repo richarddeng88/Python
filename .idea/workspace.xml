@@ -2,10 +2,463 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1df7e77-2806-4fa6-b98e-10f39e9e8cc7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/08 16 filtering -1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09 20 regular expression.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09 25 timer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09 30 matplotlib by book.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1 python basic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/BeautifulSoup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/aa_readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/argfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/argtest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/avelist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/avenum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/average.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/badhtml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/celsius.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/cleanup.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/clown.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/copytildone.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/count1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/count2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/count3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/curl1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/curl2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/curl3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/db1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/db2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/egg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/emaildb.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/fahren.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/geodata.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/geodata/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/geodata/geodump.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/geodata/geoload.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/geodata/where.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/geodata/where.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/geodata/where.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/geojson.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/geoxml.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/Chart.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/d3.layout.cloud.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/d3.v3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/gbasic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/gline.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/gline.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/gline2.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/gline3.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/gmane.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/gmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/gword.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/gword.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/gyear.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/gmane/mapping.sqlite" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/grade.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/graphics/graphics.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/graphics/histogram.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/greet.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/grep.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/hidden.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/intro-short.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/intro.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/json1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/json2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/largest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/mailcount.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/mailtop.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/mbox-short.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/mbox.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/oauth.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/open.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/BeautifulSoup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/d3.v2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/force.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/force.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/force.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/spdump.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/spider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/spider.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/spjson.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/sprank.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pagerank/spreset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pals.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/party1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/party2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/party3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/party4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/party5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pay.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pay2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/pay3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re01.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re02.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re03.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re04.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re05.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re06.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re07.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re08.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re09.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re10.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re11.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re12.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re13.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/re14.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/romeo-full.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/romeo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/roster.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/roster.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/roster/roster.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/roster/roster_data.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/search1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/search10.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/search2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/search3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/search4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/search5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/search6.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/search7.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/search8.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/search9.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/sequence.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/socket1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/socket2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/soft.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/spamave.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/tracks.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/tracks/Library.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/tracks/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/tracks/tracks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/twdump.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/twfriends.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/twitter1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/twitter2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/twjoin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/twspider.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/twtest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/twurl.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/txtcheck.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/txtcheck2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/txtcheck3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/txtcount.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/txtdelete.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/txtmd5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/txtsize.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/urljpeg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/urllib1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/urllib2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/urllink2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/urllink3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/urllinks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/urlregex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/urlwords.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/whathour.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/wikidata.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/wikigrade.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/wordlist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/words.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/words.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/xml1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1. python for data analysis book code/code/xml2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10 10 test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10 14 Classes.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10 16 Pandas read csv + merge.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10 17 matplotlib examples.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2 python basic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/01_machine_learning_intro.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/02_machine_learning_setup.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/03_getting_started_with_iris.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/04_model_training - knn.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/05_model_evaluation - knn.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/06_linear_regression.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/07_cross_validation.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/08_grid_search.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/09_classification_metrics.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/Regression methods.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/check sklearn version.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/classification methods.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/01_clustering.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/01_robot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/01_spam_filter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/01_supervised_learning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/02_ipython_header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/02_sklearn_algorithms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/02_sklearn_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/03_iris.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/04_1nn_map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/04_5nn_map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/04_knn_dataset.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/05_overfitting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/05_train_test_split.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/07_cross_validation_diagram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/09_confusion_matrix_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/images/09_confusion_matrix_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/requirements.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/1. sklearn tutorial code/styles/custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/2 sklearn my typed code/05 25 iris sklearn.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/2 sklearn my typed code/05 26 sklearn knn.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/2 sklearn my typed code/06 01 clasification sklearn.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/2 sklearn my typed code/06 07 sentiment analysis - movie review.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/2 sklearn my typed code/06 07 sentiment analysis .ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. sklearn practice/2 sklearn my typed code/06 08 sentiment analysis - 2 train model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 numpy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/3sum/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/3sum_closest/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/4sum/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/add_binary/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/add_binary/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/add_binary/solution3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/add_digits/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/add_two_numbers/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/add_two_numbers/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/anagrams/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/balanced_binary_tree/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/balanced_binary_tree/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/best_time_to_buy_and_sell_stock/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/best_time_to_buy_and_sell_stock_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/best_time_to_buy_and_sell_stock_iii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/binary_search_tree_iterator/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/binary_tree_inorder_traversal/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/binary_tree_level_order_traversal/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/binary_tree_level_order_traversal/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/binary_tree_level_order_traversal_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/binary_tree_maximum_path_sum/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/binary_tree_paths/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/binary_tree_postorder_traversal/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/binary_tree_preorder_traversal/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/binary_tree_zigzag_level_order_traversal/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/bitwise_and_of_numbers_range/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/climbing_stairs/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/climbing_stairs/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/clone_graph/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/clone_graph/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/clone_graph/solution3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/combination_sum/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/combination_sum_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/combination_sum_ii/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/combinations/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/construct_binary_tree_from_inorder_and_postorder_traversal/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/construct_binary_tree_from_preorder_and_inorder_traversal/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/container_with_most_water/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/contains_duplicate/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/contains_duplicate_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/convert_sorted_array_to_binary_search_tree/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/convert_sorted_list_to_binary_search_tree/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/copy_list_with_random_pointer/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/count_and_say/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/count_primes/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/count_primes/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/course_schedule/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/course_schedule/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/course_schedule/test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/delete_node_in_a_linked_list/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/different_ways_to_add_parentheses/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/distinct_subsequences/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/distinct_subsequences/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/edit_distance/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/excel_sheet_column_number/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/factorial_trailing_zeroes/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/find_minimum_in_rotated_sorted_array/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/find_minimum_in_rotated_sorted_array_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/find_peak_element/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/first_bad_version/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/first_missing_positive/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/flatten_binary_tree_to_linked_list/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/gas_station/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/generate_parentheses/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/generate_parentheses/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/gray_code/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/group_anagrams/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/h_index/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/happy_number/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/house_robber/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/house_robber_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/implement_queue_using_stacks/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/implement_stack_using_queues/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/implement_stack_using_queues/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/implement_strstr/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/implement_strstr/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/insertion_sort_list/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/invert_binary_tree/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/isomorphic_strings/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/jump_game/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/jump_game/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/jump_game_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/jump_game_ii/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/jump_game_ii/solution3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/kth_largest_element_in_an_array/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/kth_largest_element_in_an_array/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/largest_rectangle_in_histogram/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/length_of_last_word/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/length_of_last_word/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/length_of_last_word/solution3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/letter_combinations_of_a_phone_number/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/letter_combinations_of_a_phone_number/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/letter_combinations_of_a_phone_number/solution3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/linked_list_cycle/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/linked_list_cycle_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/longest_common_prefix/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/longest_consecutive_sequence/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/longest_palindromic_substring/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/longest_substring_without_repeating_characters/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/lowest_common_ancestor_of_a_binary_search_tree/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/lowest_common_ancestor_of_a_binary_tree/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/lru_cache/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/lru_cache/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/majority_element/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/majority_element/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/majority_element_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/makedir.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/maximal_rectangle/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/maximum_depth_of_binary_tree/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/maximum_subarray/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/maximum_subarray/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/maximum_subarray/solution3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/merge_intervals/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/merge_k_sorted_lists/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/merge_sorted_array/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/merge_sorted_array/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/merge_two_sorted_lists/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/merge_two_sorted_lists/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/minimum_depth_of_binary_tree/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/minimum_depth_of_binary_tree/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/minimum_path_sum/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/minimum_path_sum/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/minimum_window_substring/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/missing_number/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/missing_number/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/move_zeroes/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/multiply_strings/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/n-queens/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/n-queens_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/next_permutation/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/number_of_1_bits/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/number_of_islands/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/palindrome_linked_list/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/palindrome_number/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/palindrome_partitioning/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/partition_list/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/pascals_triangle/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/pascals_triangle_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/path_sum/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/path_sum_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/permutations/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/permutations_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/permutations_ii/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/plus_one/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/plus_one/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/plus_one/solution3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/populating_next_right_pointers_in_each_node/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/populating_next_right_pointers_in_each_node_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/pow(x,_n)/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/pow(x,_n)/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/pow(x,_n)/solution3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/power_of_two/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/product_of_array_except_self/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/product_of_array_except_self/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/product_of_array_except_self/solution3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/product_of_array_except_self/solution4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/recover_binary_search_tree/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/regular_expression_matching/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/remove_duplicates_from_sorted_array/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/remove_duplicates_from_sorted_array_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/remove_duplicates_from_sorted_list/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/remove_duplicates_from_sorted_list_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/remove_duplicates_from_sorted_list_ii/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/remove_element/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/remove_linked_list_elements/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/remove_nth_node_from_end_of_list/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/remove_nth_node_from_end_of_list/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/restore_ip_addresses/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/reverse_bits/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/reverse_integer/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/reverse_linked_list/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/reverse_linked_list/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/reverse_linked_list_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/reverse_nodes_in_k-group/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/reverse_words_in_a_string/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/roman_to_integer/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/rotate_array/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/rotate_image/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/rotate_list/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/same_tree/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/search_a_2d_matrix/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/search_a_2d_matrix_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/search_for_a_range/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/search_for_a_range/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/search_in_rotated_sorted_array/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/search_in_rotated_sorted_array/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/search_in_rotated_sorted_array_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/search_in_rotated_sorted_array_ii/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/search_insert_position/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/search_insert_position/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/set_matrix_zeroes/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/setup.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/simplify_path/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/single_number/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/single_number_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/single_number_ii/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/sort_colors/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/sort_list/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/spiral_matrix_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/sqrt(x)/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/subsets/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/subsets/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/subsets/solution3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/subsets/solution4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/subsets_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/subsets_ii/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/sum_root_to_leaf_numbers/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/summary_ranges/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/surrounded_regions/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/swap_nodes_in_pairs/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/swap_nodes_in_pairs/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/symmetric_tree/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/trapping_rain_water/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/trapping_rain_water/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/triangle/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/triangle/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/two_sum/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/ugly_number/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/unique_binary_search_trees/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/unique_binary_search_trees/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/unique_binary_search_trees_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/unique_paths/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/unique_paths_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/unique_paths_ii/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/valid_anagram/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/valid_palindrome/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/valid_parentheses/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/valid_sudoku/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/validate_binary_search_tree/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/validate_binary_search_tree/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/validate_binary_search_tree/solution3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/word_break/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/word_break/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/word_break_ii/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/word_break_ii/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/word_ladder/solution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3. leetcode-python-master/word_ladder/solution2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4 pandas basic - pickle, correlation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/5 pandas basic - resampling,rolling.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 pandas comparison.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/.ipynb_checkpoints/Analysis -checkpoint.ipynb" afterPath="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/.ipynb_checkpoints/Analysis -checkpoint.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Analysis .ipynb" afterPath="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Analysis .ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0. social meida analysis/2. coursera code/1. twitter_sentiments.py" afterPath="$PROJECT_DIR$/0. social meida analysis/2. coursera code/1. twitter_sentiments.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0. social meida analysis/2. coursera code/3. my code converting json - yelp dataset.ipynb" afterPath="$PROJECT_DIR$/0. social meida analysis/2. coursera code/3. my code converting json - yelp dataset.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/test.py" afterPath="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_time_series.py" afterPath="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_time_series.py" />
     </list>
     <ignored path="Python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +478,32 @@
     <favorites_list name="Python" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="twitter_time_series.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_time_series.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <element signature="e#35#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="e#35#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,7 +518,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/06 04 web scraping - threads.py" />
         <option value="$PROJECT_DIR$/06 05 twitter analysis.py" />
         <option value="$PROJECT_DIR$/06 07 sentiment analysis - movie review.py" />
@@ -88,17 +565,18 @@
         <option value="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_streaming.py" />
         <option value="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_hashtag_frequency.py" />
         <option value="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_hashtag_stats.py" />
-        <option value="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/test.py" />
         <option value="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_term_frequency.py" />
         <option value="$PROJECT_DIR$/0. social meida analysis/2. coursera code/1. twitter_sentiments.py" />
+        <option value="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/test.py" />
+        <option value="$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_time_series.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="776" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -419,27 +897,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.49701047" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5119581" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.48804185" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.49701047" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27586207" sideWeight="0.8206442" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.49103138" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39629006" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27586207" sideWeight="0.8206442" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39629006" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.49701047" order="6" side_tool="false" content_ui="tabs" />
@@ -590,74 +1067,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_streaming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_get_user_timeline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_get_home_timeline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_hashtag_stats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="29" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_hashtag_frequency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_term_frequency_graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-440">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_term_frequency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_client.py" />
+    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_streaming.py" />
+    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_get_user_timeline.py" />
+    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_get_home_timeline.py" />
+    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_hashtag_stats.py" />
+    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_hashtag_frequency.py" />
+    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_term_frequency_graph.py" />
+    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_term_frequency.py" />
     <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/2.1 twitter_client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,9 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="605">
           <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -682,7 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -690,9 +1107,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding>
-            <element signature="e#44#54#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -700,7 +1114,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-153">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,9 +1121,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-          <folding>
-            <element signature="e#41#51#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -718,15 +1128,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_time_series.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +1135,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,7 +1142,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#35#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0. social meida analysis/1. Book-Social Media Mining Python/Chap02-03/twitter_time_series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="e#35#45#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
