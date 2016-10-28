@@ -7,6 +7,7 @@ import unidecode
 f = open('auth.k','r')
 ak = f.readlines()
 f.close()
+
 auth1 = tweepy.auth.OAuthHandler(ak[0].replace("\n",""), ak[1].replace("\n",""))
 auth1.set_access_token(ak[2].replace("\n",""), ak[3].replace("\n",""))
 api = tweepy.API(auth1)
